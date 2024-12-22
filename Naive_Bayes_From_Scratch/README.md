@@ -37,8 +37,8 @@ The core of the implementation is the `NaiveBayes` class, which contains the fol
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/muhammadhazrat/ML_Naive_Bayes/tree/main/Naive_Bayes_From_Scratch
+    cd Naive_Bayes_From_Scratch
     ```
 
 2.  **Run the script:**
